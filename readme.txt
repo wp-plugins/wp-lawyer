@@ -2,7 +2,7 @@
 Contributors: bhubbard, imforza
 Tags: lawyers, law firm, attorneys
 Requires at least: 3.7
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0.1
 License: GP3
 
@@ -17,6 +17,9 @@ WP-Lawyer is a custom WordPress plugin for Lawyers and Law Firms which use WordP
 
 == Frequently Asked Questions ==
 Coming Soon
+
+== Other Notes ==
+No other notes at this time. 
 
 == Changelog ==
 
