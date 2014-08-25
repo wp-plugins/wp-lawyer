@@ -23,10 +23,10 @@ Angela Foltz - @acfoltz
 
 == Changelog ==
 
-== 1.0.1 ==
+= 1.0.1 =
 Added languages & associations taxonomy
 
-== 1.0.0 ==
+= 1.0.0 =
 First Release
 
 
