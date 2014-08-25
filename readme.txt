@@ -11,15 +11,15 @@ WP-Lawyer is a custom WordPress plugin for Lawyers and Law Firms which use WordP
 == Description ==
 WP-Lawyer is a custom WordPress plugin for Lawyers and Law Firms which use WordPress. It allows them to easily manage past court cases, along with a directory of Attorneys on their WordPress website. 
 
+== Credits ==
+
+Brandon Hubbard - @bhubbard
+Angela Foltz - @acfoltz
+
 == Installation ==
 1) Download the Plugin
 2) Upload to your Plugins Folder in wp-content
 
-== Frequently Asked Questions ==
-Coming Soon
-
-== Other Notes ==
-No other notes at this time. 
 
 == Changelog ==
 
@@ -28,3 +28,9 @@ Added languages & associations taxonomy
 
 == 1.0.0 ==
 First Release
+
+
+== Frequently Asked Questions ==
+Coming Soon
+
+== Screenshots ==
