@@ -3,7 +3,7 @@
 /*!-----------------------------------------------------------------------------------
 
   Plugin Name: WP Lawyer
-  Version: 1.0.1
+  Version: 1.0.2
   Plugin URI: //wp-lawyer.com
   Description: A custom WordPress plugin for Lawyers and Law Firms.
   Author: imFORZA
@@ -36,9 +36,20 @@ register_activation_hook( __FILE__, 'wplawyer_activate' );
 function wplawyer_activate() {
     global $wpdb;
 
-
+    flush_rewrite_rules();
 
 }
+
+################################################################################
+// Plugin Deactivation
+################################################################################
+register_deactivation_hook( __FILE__, 'wplawyer_deactivation' );
+
+function wplawyer_deactivation() {
+
+		flush_rewrite_rules();
+}
+
 
 ################################################################################
 // Plugin Styles
@@ -55,3 +66,4 @@ function wplawyer_styles() {
 			wp_enqueue_style('wplawyer');
 		}
 	}
+
