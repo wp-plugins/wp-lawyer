@@ -3,7 +3,7 @@
 /*!-----------------------------------------------------------------------------------
 
   Plugin Name: WP Lawyer
-  Version: 1.0.2
+  Version: 1.0.3
   Plugin URI: //wp-lawyer.com
   Description: A custom WordPress plugin for Lawyers and Law Firms.
   Author: imFORZA

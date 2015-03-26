@@ -99,10 +99,6 @@ function wp_lawyer_attorneys_practicearea() {
 	);
 	register_taxonomy( 'wplawyer-practice-area', array( 'wplawyer-attorney' ), $args );
 
-	wp_insert_term('Car Accidents', 'wplawyer-practice-area');
-	wp_insert_term('Burn Injury', 'wplawyer-practice-area');
-	wp_insert_term('Workers\' Compensation Law', 'wplawyer-practice-area');
-
 }
 
 // Hook into the 'init' action
