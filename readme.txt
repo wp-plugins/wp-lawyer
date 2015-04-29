@@ -2,7 +2,7 @@
 Contributors: bhubbard, imforza
 Tags: lawyers, law firm, attorneys
 Requires at least: 3.7
-Tested up to: 3.9.1
+Tested up to: 4.2.1
 Stable tag: 1.0.3
 License: GP3
 
